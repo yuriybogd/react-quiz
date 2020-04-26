@@ -1,0 +1,9 @@
+{
+  "rc-beautify": {
+    "insize": 4,
+    "inchar": " ",
+    "bracepadding": false,
+    "wrap": 80
+  },
+  "editor.wordWrap": "on"
+}
